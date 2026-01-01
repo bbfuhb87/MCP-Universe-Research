@@ -1,2 +1,2 @@
 # MCP-Universe-Research
-Research repository for Model Context Protocol evaluation framework
+A comprehensive evaluation framework for LLMs to use the novel MCP technique.
